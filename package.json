@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@doctormckay/stdlib": "^1.5.1",
-    "@tf2autobot/steamcommunity": "^3.45.0-dev.1",
+    "@tf2autobot/steamcommunity": "^3.45.0-dev.2",
     "appdirectory": "^0.1.0",
     "async": "^3.2.3",
     "file-manager": "^2.0.1",
