@@ -3,6 +3,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/@tf2autobot/tradeoffer-manager.svg)](https://npmjs.com/package/@tf2autobot/tradeoffer-manager)
 [![dependencies](https://img.shields.io/david/tf2autobot/node-steam-tradeoffer-manager.svg)](https://david-dm.org/tf2autobot/node-steam-tradeoffer-manager)
 [![license](https://img.shields.io/npm/l/@tf2autobot/tradeoffer-manager.svg)](https://github.com/tf2autobot/node-steam-tradeoffer-manager/blob/master/LICENSE)
+[![sponsors](https://img.shields.io/github/sponsors/DoctorMcKay.svg)](https://github.com/sponsors/DoctorMcKay)
 
 This module is designed to be a completely self-contained manager for
 [Steam trade offers](https://steamcommunity.com/my/tradeoffers).

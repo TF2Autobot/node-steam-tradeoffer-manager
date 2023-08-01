@@ -25,9 +25,8 @@
     "update-resources": "node scripts/update-resources.js"
   },
   "dependencies": {
-    "@doctormckay/stdlib": "^1.5.1",
+    "@doctormckay/stdlib": "^1.16.0",
     "@tf2autobot/steamcommunity": "^3.47.0",
-    "appdirectory": "^0.1.0",
     "async": "^3.2.4",
     "file-manager": "^2.0.1",
     "languages": "^0.1.3",
