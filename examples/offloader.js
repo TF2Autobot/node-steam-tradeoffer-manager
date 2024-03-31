@@ -5,7 +5,7 @@
  */
 
 const SteamUser = require('steam-user');
-const SteamCommunity = require('steamcommunity');
+const SteamCommunity = require('@tf2autobot/steamcommunity');
 const SteamTotp = require('steam-totp');
 const TradeOfferManager = require('../lib/index.js'); // use require('steam-tradeoffer-manager') in production
 const FS = require('fs');
