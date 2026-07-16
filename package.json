@@ -33,7 +33,7 @@
     "steamid": "^2.1.0"
   },
   "engines": {
-    "node": ">=18.17.0"
+    "node": ">=22.x"
   },
   "directories": {
     "example": "examples",
